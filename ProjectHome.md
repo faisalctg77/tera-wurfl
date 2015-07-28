@@ -1,0 +1,4 @@
+# Tera-WURFL #
+A high-speed database driven WURFL implementation in PHP.  Tera-WURFL 2 uses advanced detection heuristics in conjunction with the WURFL (Wireless Universal Resource File) to identify the capabilities of mobile devices.  Based on the Java WURFL implementation, Tera-WURFL adds a persistent MySQL caching engine that keeps your server running at top speed with very low CPU usage.  Also available is an XML web service that lets you create one central device detection database and deploy many web interface clients to your mobile websites.  With close integration of WALL (Wireless Abstraction Language) you can easily develop template sites that are translated into the appropriate language for the visiting device (WML, CHTML, XHTML-MP).
+
+**[Visit the Tera-WURFL Website for the most recent version](http://www.tera-wurfl.com/wiki/index.php/Main_Page)**
